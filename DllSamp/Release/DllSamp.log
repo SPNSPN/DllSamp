@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  DllSamp.cpp
+c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.cpp(20): warning C4273: 'fibonacci_init': dll リンクが一貫していません。
+  c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.h(21): note: 'fibonacci_init' の以前の定義を確認してください
+c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.cpp(29): warning C4273: 'fibonacci_next': dll リンクが一貫していません。
+  c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.h(27): note: 'fibonacci_next' の以前の定義を確認してください
+c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.cpp(50): warning C4273: 'fibonacci_current': dll リンクが一貫していません。
+  c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.h(30): note: 'fibonacci_current' の以前の定義を確認してください
+c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.cpp(56): warning C4273: 'fibonacci_index': dll リンクが一貫していません。
+  c:\users\kusam\documents\cpp_code\dll_samp\dllsamp\dllsamp\dllsamp.h(33): note: 'fibonacci_index' の以前の定義を確認してください
+     ライブラリ C:\Users\kusam\Documents\cpp_code\dll_samp\DllSamp\Release\DllSamp.lib とオブジェクト C:\Users\kusam\Documents\cpp_code\dll_samp\DllSamp\Release\DllSamp.exp を作成中
+  コード生成しています。
+  7 of 7 functions (100.0%) were compiled.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  DllSamp.vcxproj -> C:\Users\kusam\Documents\cpp_code\dll_samp\DllSamp\Release\DllSamp.dll
